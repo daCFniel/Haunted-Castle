@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Command
+comment0.text=\r\n\ Type\ of\ any\ valid\ command\ of\ the\ game.\r\n\ All\ commands\ implement\ this\ interface.\r\n\ \r\n\ @author\ Olaf\ Chitil\r\n\ @version\ 3/2/2020\r\n
+comment1.params=ui\ game
+comment1.target=java.lang.String\ process(GameMain,\ Game)
+comment1.text=\r\n\ Process,\ that\ is,\ execute\ the\ command\ in\ the\ game.\r\n\ @param\ ui\ \ The\ user\ interface\ of\ the\ game.\r\n\ @param\ game\ The\ actual\ game.\r\n\ @return\ Message\ to\ the\ player.\r\n
+numComments=2

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Direction
+comment0.text=\r\n\ A\ direction\ in\ the\ game.\r\n\ There\ exist\ only\ a\ few\ different\ directions.\r\n\ \r\n\ @author\ Olaf\ Chitil\ and\ Daniel\ Bielech\r\n\ @version\ 15/2/2020\r\n
+comment1.params=name
+comment1.target=Direction(java.lang.String)
+comment1.text=\r\n\ Constructor\ with\ parameter.\r\n\ Pre-condition\:\ name\ is\ not\ null.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Return\ the\ direction\ name.\r\n
+comment3.params=
+comment3.target=Direction\ dual()
+comment3.text=\ \r\n\ Return\ the\ dual\ (opposite)\ of\ this\ direction.\r\n
+numComments=4

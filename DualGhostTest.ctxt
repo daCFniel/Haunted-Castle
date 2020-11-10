@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=DualGhostTest
+comment0.text=\r\n\ The\ test\ class\ DualGhostTest.\r\n\r\n\ @author\ \ Olaf\ Chitil\r\n\ @version\ 4/2/20202\r\n
+comment1.params=
+comment1.target=DualGhostTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ DualGhostTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ tearDown()
+comment3.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+comment4.params=
+comment4.target=void\ dual1()
+comment4.text=\r\n\ Check\ that\ ghost\ dualises\ its\ room.\r\n
+comment5.params=
+comment5.target=void\ dual2()
+comment5.text=\r\n\ Check\ that\ ghost\ dualises\ its\ room.\r\n
+comment6.params=
+comment6.target=void\ move1()
+comment6.text=\r\n\ Check\ that\ moving\ dualises\ room.\r\n
+numComments=7

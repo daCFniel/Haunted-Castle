@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DualGhost
+comment0.text=\r\n\ Class\ DualGhost\r\n\ A\ dual\ ghost\ in\ the\ castle.\r\n\ \r\n\ @author\ Olaf\ Chitil\ and\ Daniel\ Bielech\r\n\ @version\ 15/2/2020\r\n
+comment1.params=loc\ desc
+comment1.target=DualGhost(Room,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ initialising\ location\ and\ description.\r\n\ Setting\ and\ starting\ room\ to\ dual.\r\n\ Pre-condition\:\ location\ not\ null.\r\n\ Pre-condition\:\ description\ not\ null.\r\n
+comment2.params=rooms
+comment2.target=void\ goRandom(java.util.List)
+comment2.text=\r\n\ Bring\ exits\ of\ current\ room\ back\ to\ normal.\r\n\ Go\ to\ a\ random\ room.\r\n\ Then\ change\ its\ exits\ to\ dual.\ \r\n\ @param\ rooms\ all\ rooms\ available\ \r\n
+comment3.params=loc
+comment3.target=void\ move(Room)
+comment3.text=\r\n\ Bring\ exits\ of\ current\ room\ back\ to\ normal.\r\n\ Move\ character\ to\ a\ given\ room.\r\n\ This\ involves\ removing\ the\ character\ from\ the\ room\ it\ was\ before.\r\n\ Works\ also\ if\ previous\ and\ new\ room\ are\ the\ same.\r\n\ Change\ its\ exits\ to\ dual.\r\n\ This\ method\ overrides\ Character.move\ method.\r\n\ Pre-condition\:\ room\ is\ not\ null.\r\n
+numComments=4
